@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f599864a25ef47d45822556175ae1da9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bigfat Script
+  fontNames:
+  - Bigfat Script
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e918255c401a5154094b301f5fc2f633, type: 3}
+  - {fileID: 12800000, guid: 2d85842d208f9d94c895adcd756fc3c3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
